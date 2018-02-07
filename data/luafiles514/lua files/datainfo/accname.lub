@@ -1688,5 +1688,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Poring_Traffic_Light] = "_Poring_Traffic_Light",
 	[ACCESSORY_IDs.ACCESSORY_Eleanor_Wig_YL] = "_Eleanor_Wig_YL",
 	[ACCESSORY_IDs.ACCESSORY_C_Nydhog_Wig_WH] = "_Nydhog_Wig_WH",
-	[ACCESSORY_IDs.ACCESSORY_Alice_Wig_PK] = "_Alice_Wig_PK"
+	[ACCESSORY_IDs.ACCESSORY_Alice_Wig_PK] = "_Alice_Wig_PK",
+	[ACCESSORY_IDs.ACCESSORY_Enchanted_Dog] = "_Enchanted_Dog"
 }
